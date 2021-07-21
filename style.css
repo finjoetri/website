@@ -34,7 +34,7 @@ ul li a {
 
 }
 ul li a:hover{ 
-  background-color: #fff;
+  background-color: #66D4DE;
   color: black;
 }
 .title{
@@ -67,7 +67,7 @@ ul li a:hover{
 }
 
 .btn:hover{
-  background-color: #fff;
+  background-color: #66D4DE;
   color: black;
   
 }
