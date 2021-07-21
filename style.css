@@ -34,8 +34,8 @@ ul li a {
 
 }
 ul li a:hover{ 
-  background-color: #66D4DE;
-  color: black;
+  background-color:#66D4DE;
+  color:black;
 }
 .title{
   position:absolute;
